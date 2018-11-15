@@ -1,7 +1,6 @@
-/*COSC 1P03
- *ASSIGNMENT #4
+/*
  *Username: (Karanjot Pabla)
- *Student #: (6231377)
+ *
  * Stack class that creates the Stack for the storing path soluion
  */
 
