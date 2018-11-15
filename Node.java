@@ -1,7 +1,6 @@
-/*COSC 1P03
- *ASSIGNMENT #4
+/*
  *Username: (Karanjot Pabla)
- *Student #: (6231377)
+ *
  * Node class that creates the Node for the stack
  */
 
