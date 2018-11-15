@@ -1,7 +1,6 @@
-/*COSC 1P03
- *ASSIGNMENT #4
+/*
  *Username: (Karanjot Pabla)
- *Student #: (6231377)
+ *
  * Linked Stack class that implements stack class to store path solution
  */
 public class LnkStack<E> implements Stack<E> {
