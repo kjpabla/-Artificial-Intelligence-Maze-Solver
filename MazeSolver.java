@@ -1,9 +1,7 @@
 import java.util.Scanner;
 import java.io.File;
-/*COSC 1P03
- *ASSIGNMENT #4
+/*
  *Username: (Karanjot Pabla)
- *Student #: (6231377)
  *
  *This class is responsible for the retrieving and parsing of a 'maze' datafile, the  establishment of
  *a Maze object, and the invocation of the Maze's solve() method
